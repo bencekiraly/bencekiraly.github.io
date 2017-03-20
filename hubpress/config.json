@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://bencekiraly.github.io",
+    "site": "http://blog.hoops.hu",
     "hubpress": "https://bencekiraly.github.io",
-    "theme": "//bencekiraly.github.io/themes/casper",
-    "images": "https://bencekiraly.github.io/images"
+    "theme": "//blog.hoops.hu/themes/casper",
+    "images": "http://blog.hoops.hu/images"
   },
   "site": {
     "title": "Teszt",
@@ -20,7 +20,7 @@
     "logo": "",
     "cover": "",
     "delay": "",
-    "postsPerPage": "",
+    "postsPerPage": "10",
     "googleAnalytics": "",
     "disqus": ""
   },
