@@ -10,12 +10,12 @@
   },
   "urls": {
     "site": "http://blog.hoops.hu",
-    "hubpress": "https://bencekiraly.github.io",
+    "hubpress": "http://blog.hoops.hu",
     "theme": "//blog.hoops.hu/themes/casper",
     "images": "http://blog.hoops.hu/images"
   },
   "site": {
-    "title": "Teszt",
+    "title": "blog@bencekiraly",
     "description": "",
     "logo": "",
     "cover": "",
