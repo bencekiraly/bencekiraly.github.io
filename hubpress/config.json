@@ -2,9 +2,38 @@
   "meta": {
     "username": "bencekiraly",
     "repositoryName": "bencekiraly.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://bencekiraly.github.io",
+    "hubpress": "http://blog.hoops.hu",
+    "theme": "//bencekiraly.github.io/themes/casper",
+    "images": "https://bencekiraly.github.io/images"
+  },
+  "site": {
+    "title": "Teszt",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "kiraly.bence@outlook.com",
+    "github": "bencekiraly",
+    "twitter": "_zeroben",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
