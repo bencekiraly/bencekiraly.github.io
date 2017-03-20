@@ -3,14 +3,14 @@
     "username": "bencekiraly",
     "repositoryName": "bencekiraly.github.io",
     "branch": "master",
-    "cname": ""
+    "cname": "blog.hoops.hu"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
     "site": "https://bencekiraly.github.io",
-    "hubpress": "http://blog.hoops.hu",
+    "hubpress": "https://bencekiraly.github.io",
     "theme": "//bencekiraly.github.io/themes/casper",
     "images": "https://bencekiraly.github.io/images"
   },
