@@ -6,12 +6,12 @@
     "cname": "blog.hoops.hu"
   },
   "theme": {
-    "name": "crisp"
+    "name": "casperc"
   },
   "urls": {
     "site": "http://blog.hoops.hu",
     "hubpress": "http://blog.hoops.hu",
-    "theme": "//blog.hoops.hu/themes/crisp-master",
+    "theme": "//blog.hoops.hu/themes/crisp",
     "images": "http://blog.hoops.hu/images"
   },
   "site": {
